@@ -13,9 +13,11 @@ Bootstrap ACE模板实现sidebar菜单联动tabs页签（你值得拥有）—�
 
 一、效果展示
  
+![result](https://images.gitee.com/uploads/images/2019/0422/170709_39577614_954087.gif "0.gif")
 
+![right menu](https://images.gitee.com/uploads/images/2019/0422/170735_9026b7fa_954087.png "4.png")
 
-
+![loarbar](https://images.gitee.com/uploads/images/2019/0422/170754_9e11420a_954087.png "5.png")
 
 二、代码部分
 
@@ -129,7 +131,7 @@ index.html页面结构未变，更改页面元素的样式，其中sidebar部分
 ```
 
 
-配合sidebar点击事件即可产生效果展示中效果\
+配合sidebar点击事件即可产生效果展示中效果
  
 
     
@@ -230,6 +232,7 @@ Ace Admin官网 http://ace.jeka.by/
 Ace Admin Git  https://github.com/bopoda/ace
 
 （1）目录结构：简洁明了
+![framework](https://images.gitee.com/uploads/images/2019/0422/170821_fe5f0343_954087.png "3.png")
 
 （2）index.html入口页面
 ![index.html](https://images.gitee.com/uploads/images/2019/0422/165939_4c4f490c_954087.png "2.png")
