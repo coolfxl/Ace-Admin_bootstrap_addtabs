@@ -233,9 +233,9 @@ Ace Admin Git  https://github.com/bopoda/ace
 （1）目录结构：简洁明了
 
 （2）index.html入口页面
-
+![index.html](https://images.gitee.com/uploads/images/2019/0422/165939_4c4f490c_954087.png "2.png")
 （3）主要布局
-
+![layout](https://images.gitee.com/uploads/images/2019/0422/165917_bfa5519e_954087.png "1.png")
 1）Navbar导航栏
 2）Sidebar侧边栏
 3）Breadcrumbs面包屑（在“主要内容”中）
@@ -244,5 +244,5 @@ Ace Admin Git  https://github.com/bopoda/ace
 6) Footer 
 
 六、相关源码：
-微信付费（3.65元/一年365天）（评论留言--邮箱地址）
-
+（3.65元——微信付费）（一年365天，评论留言--邮箱地址）
+![微信付款--weixin pay](https://images.gitee.com/uploads/images/2019/0422/165845_2eb5feea_954087.png "00.png")
