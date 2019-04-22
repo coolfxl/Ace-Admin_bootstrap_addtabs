@@ -3,11 +3,11 @@
 ### Bootstrap ACE模板实现sidebar菜单联动tabs页签（你值得拥有）——JS拓展
 
 ### 说在前面的话：
-        本博文主要使用ace admin实现Tab页+iframe的组合。实现的目标是：\
-            1、不改动ace admin的模板框架（Bootstrap v3.3.6）；\
-            2、sidebar实现蓝色图标点击选中效果；\
-            3、sidebar标题与tab页的联动，tab页与sidebar的联动可实现；\
-            4、tab标签页的动态滚动（左滚、右滚，左右滚动一屏）;\
+        本帖主要使用ace admin实现Tab页+iframe的组合。实现的目标是：
+            1、不改动ace admin的模板框架（Bootstrap v3.3.6）；
+            2、sidebar实现蓝色图标点击选中效果；
+            3、sidebar标题与tab页的联动，tab页与sidebar的联动可实现；
+            4、tab标签页的动态滚动（左滚、右滚，左右滚动一屏）;
             5、右键菜单（关闭左侧、右侧、其他，全部关闭，刷新），全屏
 
 一、效果展示
