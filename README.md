@@ -49,10 +49,10 @@ if('ontouchstart' in document.documentElement) document.write("<script src='asse
 ```
 
 
-index.html页面结构未变，更改页面元素的样式，其中sidebar部分修改微小，大致如下
-<ul class="submenu"> 下的
-<a href="tables.html"> 改为
-<a class="list-group-item" data-addtab="jqgrid" data-url="mailbox.txt">
+index.html页面结构未变，更改页面元素的样式，其中sidebar部分修改微小，大致如下\
+<ul class="submenu"> 下的\
+<a href="tables.html"> 改为\
+<a class="list-group-item" data-addtab="jqgrid" data-url="mailbox.txt"> \
 
     
 ```
@@ -89,7 +89,7 @@ index.html页面结构未变，更改页面元素的样式，其中sidebar部分
 ```
 
 
-##### <div class="main-content-inner">标签的代码替换成
+##### <div class="main-content-inner">标签的代码替换成\
 
     
 ```
@@ -130,7 +130,7 @@ index.html页面结构未变，更改页面元素的样式，其中sidebar部分
 ```
 
 
-配合sidebar点击事件即可产生效果展示中效果
+配合sidebar点击事件即可产生效果展示中效果\
  
 
     
@@ -246,6 +246,6 @@ Ace Admin Git  https://github.com/bopoda/ace
 6) Footer 
 
 六、相关源码：
-（3.65元——微信付费）（一年365天，评论留言--邮箱地址)\
+（3.65元——微信付费）（一年365天，评论留言--邮箱地址）\
 
 ![微信付款--weixin pay](https://images.gitee.com/uploads/images/2019/0422/165845_2eb5feea_954087.png "00.png")
