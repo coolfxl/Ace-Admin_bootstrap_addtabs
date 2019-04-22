@@ -4,12 +4,12 @@
 Bootstrap ACE模板实现sidebar菜单联动tabs页签（你值得拥有）——JS拓展
 
 说在前面的话：
-        本博文主要使用ace admin实现Tab页+iframe的组合。实现的目标是：
-            1、不改动ace admin的模板框架（Bootstrap v3.3.6）；
-            2、sidebar实现蓝色图标点击选中效果；
-            3、sidebar标题与tab页的联动，tab页与sidebar的联动可实现，未做；
-            4、tab标签页的动态滚动（左滚、右滚，左右滚动一屏）;
-            5、右键菜单（关闭左侧、右侧、其他，全部关闭，刷新），全屏
+        本博文主要使用ace admin实现Tab页+iframe的组合。实现的目标是：\
+            1、不改动ace admin的模板框架（Bootstrap v3.3.6）；\
+            2、sidebar实现蓝色图标点击选中效果；\
+            3、sidebar标题与tab页的联动，tab页与sidebar的联动可实现；\
+            4、tab标签页的动态滚动（左滚、右滚，左右滚动一屏）;\
+            5、右键菜单（关闭左侧、右侧、其他，全部关闭，刷新），全屏\
 
 一、效果展示
  
@@ -50,10 +50,9 @@ if('ontouchstart' in document.documentElement) document.write("<script src='asse
 
 
 index.html页面结构未变，更改页面元素的样式，其中sidebar部分修改微小，大致如下\
-<ul class="submenu"> 下的\
-<a href="tables.html"> 改为\
-<a class="list-group-item" data-addtab="jqgrid" data-url="mailbox.txt"> \
-
+`<ul class="submenu">` 下的\
+`<a href="tables.html">` 改为\
+`<a class="list-group-item" data-addtab="jqgrid" data-url="mailbox.txt">` 
     
 ```
     <li class="">
