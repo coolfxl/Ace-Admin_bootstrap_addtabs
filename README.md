@@ -247,6 +247,6 @@ Ace Admin Git  https://github.com/bopoda/ace
 6) Footer 
 
 六、相关源码：希望各位看官达人多多支持\
-（3.65元——微信付费）（一年365天，评论留言--邮箱地址）\
+（3.65元——微信付费）（一年365天，评论留言--邮箱地址）
 
 ![微信付款--weixin pay](https://images.gitee.com/uploads/images/2019/0422/165845_2eb5feea_954087.png "00.png")
