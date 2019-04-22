@@ -9,7 +9,7 @@ Bootstrap ACE模板实现sidebar菜单联动tabs页签（你值得拥有）—�
             2、sidebar实现蓝色图标点击选中效果；\
             3、sidebar标题与tab页的联动，tab页与sidebar的联动可实现；\
             4、tab标签页的动态滚动（左滚、右滚，左右滚动一屏）;\
-            5、右键菜单（关闭左侧、右侧、其他，全部关闭，刷新），全屏\
+            5、右键菜单（关闭左侧、右侧、其他，全部关闭，刷新），全屏
 
 一、效果展示
  
@@ -88,7 +88,7 @@ index.html页面结构未变，更改页面元素的样式，其中sidebar部分
 ```
 
 
-##### <div class="main-content-inner">标签的代码替换成\
+`<div class="main-content-inner">`标签的代码替换成
 
     
 ```
