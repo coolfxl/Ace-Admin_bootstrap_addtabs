@@ -28,24 +28,24 @@ index.html引入对应JS、CSS文件
     
 ```
 <!--[if lte IE 9]>
-    <link rel="stylesheet" href="assets/css/ace-part2.min.css" class="ace-main-stylesheet" />
-    <![endif]-->
-    <link rel="stylesheet" href="assets/css/ace-skins.min.css" />
-    <link rel="stylesheet" href="assets/css/ace-rtl.min.css" />
-    <!-- 这里引入bootstrap.addtabs.css -->
-    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.addtabs.css"/>
+<link rel="stylesheet" href="assets/css/ace-part2.min.css" class="ace-main-stylesheet" />
+<![endif]-->
+<link rel="stylesheet" href="assets/css/ace-skins.min.css" />
+<link rel="stylesheet" href="assets/css/ace-rtl.min.css" />
+<!-- 这里引入bootstrap.addtabs.css -->
+<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.addtabs.css"/>
 ```
 
 
     
 ```
 <script type="text/javascript">
-    if('ontouchstart' in document.documentElement) document.write("<script src='assets/js/jquery.mobile.custom.min.js'>"+"<"+"/script>");
-    </script>
-    <!-- 这里原先引入的是压缩后的bootstrap.min.js，修改了源码，引入未压缩的 -->
-    <script src="assets/js/bootstrap.js"></script>
-    <!-- 引入bootstrap.addtabs.js -->
-    <script type="text/javascript" src="assets/js/bootstrap.addtabs.js" ></script>
+if('ontouchstart' in document.documentElement) document.write("<script src='assets/js/jquery.mobile.custom.min.js'>"+"<"+"/script>");
+</script>
+<!-- 这里原先引入的是压缩后的bootstrap.min.js，修改了源码，引入未压缩的 -->
+<script src="assets/js/bootstrap.js"></script>
+<!-- 引入bootstrap.addtabs.js -->
+<script type="text/javascript" src="assets/js/bootstrap.addtabs.js" ></script>
 ```
 
 
@@ -56,13 +56,13 @@ index.html页面结构未变，更改页面元素的样式，其中sidebar部分
 
     
 ```
-<li class="">
+    <li class="">
     	<a href="#" class="dropdown-toggle">
-    		<i class="menu-icon fa fa-list"></i>
-    		<span class="menu-text"> Tables </span>
-     
-    		<b class="arrow fa fa-angle-down"></b>
-    	</a>
+		<i class="menu-icon fa fa-list"></i>
+		<span class="menu-text"> Tables </span>
+ 
+		<b class="arrow fa fa-angle-down"></b>
+	</a>
      
     	<b class="arrow"></b>
      
@@ -89,7 +89,7 @@ index.html页面结构未变，更改页面元素的样式，其中sidebar部分
 ```
 
 
-<div class="main-content-inner"> 标签的代码替换成
+##### <div class="main-content-inner">标签的代码替换成
 
     
 ```
